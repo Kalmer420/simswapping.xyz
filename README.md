@@ -1,1 +1,1 @@
-https://kaaresk.xyz/
+kaaresk.xyz
