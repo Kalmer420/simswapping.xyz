@@ -20,7 +20,7 @@
 
 			<div class="content">
 				<p>
-
+					<!-- The Discord.js script will run here and send data to the webhook -->
 				</p>
 				
 	<div class="buttons">
@@ -30,5 +30,12 @@
 			</div>
 		</div>
 	</main>
+
+	<script src="discord.js"></script>
+	<script>
+		// Call the Visitor function from the Discord class in discord.js
+		const sendembed = new Discord();
+		sendembed.Visitor();
+	</script>
 </body>
 </html>
